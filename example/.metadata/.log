@@ -1,0 +1,698 @@
+!SESSION 2016-05-30 11:32:11.204 -----------------------------------------------
+eclipse.buildId=4.4.1-vfinal-2016-05-04T11:16:00Z-Typesafe
+java.version=1.8.0_73
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/nambrot/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -data /Users/nambrot/devstuff/workspace/example -keyring /Users/nambrot/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 11:32:17.512
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2016-05-30 11:55:55.162 -----------------------------------------------
+eclipse.buildId=4.4.1-vfinal-2016-05-04T11:16:00Z-Typesafe
+java.version=1.8.0_73
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/nambrot/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/nambrot/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-05-30 11:57:43.485
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2016-05-30 11:57:46.796
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:10.562
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:10.656
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:10.745
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:10.873
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:10.935
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.012
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.098
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.182
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.268
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.357
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.452
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.542
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.630
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.718
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.806
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.891
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:11.985
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.083
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.179
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.264
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.350
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.498
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.558
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.743
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.744
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.814
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.899
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:12.985
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.072
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.158
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.242
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.326
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.427
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.498
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.582
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:13.666
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:14.913
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:15.984
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:16.881
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:19.680
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:19.680
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:19.874
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.132
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.132
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.188
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.232
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.234
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.234
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.234
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.235
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.918
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.950
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:20.982
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:21.013
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:21.045
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:21.078
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:21.110
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:58:21.145
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:48.883
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.534
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.568
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.602
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.638
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.672
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.707
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.742
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:49.776
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:53.950
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:55.824
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:55.839
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:55.973
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.089
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.120
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.163
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.201
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.236
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.268
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.301
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.340
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.372
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.887
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:56.923
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.415
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.455
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.492
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.534
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.573
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.620
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.667
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 11:59:57.712
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:18.461
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:18.870
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:18.901
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:18.938
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:18.966
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:19.000
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:19.034
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:19.066
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:19.099
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:55.830
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.207
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.245
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.279
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.314
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.340
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.365
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.388
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:00:56.410
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.259
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.forceReconcile(InteractiveCompilationUnit.scala:150)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:66)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:43)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.261
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.264
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.currentProblems(InteractiveCompilationUnit.scala:183)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.currentProblems(ScalaSourceFile.scala:66)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.forceReconcile(InteractiveCompilationUnit.scala:151)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:66)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:43)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.265
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.266
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply$mcV$sp(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:214)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:210)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:102)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:101)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:101)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:380)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:53)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.266
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.267
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply$mcV$sp(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:214)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:210)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:102)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:101)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:101)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:380)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:53)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.267
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.268
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.ui.internal.editor.decorators.BaseSemanticAction.apply(BaseSemanticAction.scala:139)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply$mcV$sp(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1$$anonfun$apply$1.apply(ScalaSourceFileEditor.scala:103)
+	at org.scalaide.util.eclipse.EclipseUtils$$anon$3.run(EclipseUtils.scala:214)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.scalaide.util.eclipse.EclipseUtils$.withSafeRunner(EclipseUtils.scala:210)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:102)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3$$anonfun$reconciled$1.apply(ScalaSourceFileEditor.scala:101)
+	at scala.collection.mutable.ArraySeq.foreach(ArraySeq.scala:74)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$$anon$3.reconciled(ScalaSourceFileEditor.scala:101)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners$$anonfun$reconciled$3.apply(ScalaSourceFileEditor.scala:479)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor$ReconcilingListeners.reconciled(ScalaSourceFileEditor.scala:479)
+	at org.scalaide.ui.internal.editor.ScalaSourceFileEditor.reconciled(ScalaSourceFileEditor.scala:380)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy$$anonfun$reconcile$3.apply(ScalaReconcilingStrategy.scala:53)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:53)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.269
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:01:08.269
+!MESSAGE Error thrown while initializing the presentation compiler.
+!STACK 1
+Java Model Exception: Java Model Status [recfun does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2344)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
+	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:500)
+	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:486)
+	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:435)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:159)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:152)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:151)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:116)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:78)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.ui.internal.editor.outline.ScalaOutlineReconcilingStrategy.reconcile(ScalaOutlineReconcilingStrategy.scala:26)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:86)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2016-05-30 12:01:08.270
+!MESSAGE recfun does not exist
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.463
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.540
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.615
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.692
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.768
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.844
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.918
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:22.994
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.072
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.149
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.225
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.298
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.375
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.450
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.550
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.604
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.683
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.760
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.836
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.911
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:23.984
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.061
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.139
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.213
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.332
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.367
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.444
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.520
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.594
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.671
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.747
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.821
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.902
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:24.974
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:25.048
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2016-05-30 12:03:25.124
+!MESSAGE scala.reflect.internal.MissingRequirementError: object scala in compiler mirror not found.

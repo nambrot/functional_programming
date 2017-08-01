@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/nambrot/devstuff/workspace/example/.metadata/.plugins/org.eclipse.jdt.core
+774564975.index

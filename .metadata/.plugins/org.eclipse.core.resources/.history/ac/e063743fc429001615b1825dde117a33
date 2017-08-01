@@ -1,0 +1,68 @@
+package recfun
+
+object Main {
+  def main(args: Array[String]) {
+    println("Pascal's Triangle")
+    for (row <- 0 to 10) {
+      for (col <- 0 to row)
+        print(pascal(col, row) + " ")
+      println()
+    }
+  }
+
+  /**
+   * Exercise 1
+   */
+    def pascal(c: Int, r: Int): Int = {
+      def row(rowNumber: Int): List[Int] = {
+        rowNumber match {
+          case 0 => List(1)
+          case 1 => List(1, 1)
+          case _ => {
+            val prevList = row(rowNumber - 1)
+            ((0 :: prevList) zip (prevList :+ 0)) map { case(a,b) => a + b }
+          }
+        }
+      }
+      row(r)(c)
+    }
+  
+  /**
+   * Exercise 2
+   */
+    def balance(chars: List[Char]): Boolean = {
+      def balanceHelper(chars: List[Char], balance: Int): Boolean = {
+        if (balance < 0) return false
+        chars match {
+          case List() => if (balance == 0) true else false
+          case '(' :: as => balanceHelper(as, balance + 1)
+          case ')' :: as => balanceHelper(as, balance - 1)
+          case _ :: as => balanceHelper(as, balance)
+        }
+      }
+      
+      balanceHelper(chars, 0)
+    }
+  
+  /**
+   * Exercise 3
+   */
+    def countChange(money: Int, coins: List[Int]): Int = {
+      val sortedCoins = coins.sortBy(x => -x)
+      def countChangeHelper(money: Int, coins: List[Int]): Int = {
+        (money, coins) match {
+          case (0, _) => 0
+          case (_, List()) => 0
+          case (x, a :: as) => {
+            x match { 
+              case y if y == a => 1 + countChangeHelper(x, as)
+              case y if y > a => countChangeHelper(x-a, coins) + countChangeHelper(x, as)
+              case _ => countChangeHelper(x, as)
+            }
+          }
+        }
+      }
+
+      countChangeHelper(money, sortedCoins)
+    }
+  }

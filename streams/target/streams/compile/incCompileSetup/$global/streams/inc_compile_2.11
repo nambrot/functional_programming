@@ -1,0 +1,487 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$2.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$3.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Down$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Left$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Move.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Pos.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Right$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Up$.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$class.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$class.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain.class
+binary dependencies:
+12 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+40 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> common.package
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> common.package$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level0$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level1$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$3
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$neighbors$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Down$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Left$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Move
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Right$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Up$
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$from$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams.Solver$class
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+246 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> ::
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> <init>
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> <repeated>
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> Any
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> AnyRef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> File
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> FileInputStream
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> InputStream
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> List
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> None
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> Nothing
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> Option
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> Predef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> String
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> _root_
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> child
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> children
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> classesDir
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> common
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> exists
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> file
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> foldLeft
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> getClass
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> getParentFile
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> getResource
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> io
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> java
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> package
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> projectDir
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> resourceFile
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> resourcePath
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> subFile
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> toURI
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> <init>
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> App
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Array
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Bloxorz
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteLevel
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Level
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Level0
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Level1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Predef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Solver
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> String
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> StringParserTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> Unit
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> augmentString
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> goal
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> level
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> println
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> solution
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> startPos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> streams
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> stripMargin
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> &&
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> +
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> <=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> <init>
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> ==
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> AbstractFunction2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> AnyRef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Block
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Boolean
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Down
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Function1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> GameDef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Int
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Left
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> List
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Move
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> None
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Pos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Predef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Product
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Right
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> ScalaRunTime
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Serializable
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Statics
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> StringContext
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Tuple2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> Up
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> _1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> _2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> _hashCode
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> _root_
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> apply
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> asInstanceOf
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> b1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> b2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> block
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> canBuildFrom
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> common
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> d
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> d1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> d2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> down
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> dx
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> dy
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> eq
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> finalizeHash
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> immutable
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> isInstanceOf
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> isLegal
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> isStanding
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> left
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> map
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> mix
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> move
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> ne
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> neighbors
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> package
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> require
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> right
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> runtime
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> s
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> startPos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> streams
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> toString
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> typedProductIterator
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> unchecked
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> up
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> withFilter
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> x
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> x$3
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> x$4
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> y
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> ||
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> GameDef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> InfiniteTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> Pos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> Terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> #::
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> &&
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> +
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> ++
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> ::
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> <init>
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> ==
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Block
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Boolean
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Empty
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> GameDef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> List
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Move
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Nil
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Predef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Set
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Solver
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Stream
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> Tuple2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> _1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> _2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> apply
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> b
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> b1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> b2
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> block
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> canBuildFrom
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> common
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> consWrapper
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> contains
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> explored
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> filter
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> from
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> get
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> goal
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> head
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> history
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> immutable
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> initial
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> isEmpty
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> legalNeighbors
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> map
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> more
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> move
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> ne
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> neighbors
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> neighborsWithHistory
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> neighbour
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> newNeighborsOnly
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> package
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> pathsFromStart
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> pathsToGoal
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> reverse
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> startBlock
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> streams
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> tail
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> toStream
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> unapply
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> unary_!
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> unchecked
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> withFilter
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> &&
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> ==
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Array
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Boolean
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Char
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> ClassTag
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Function1
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> GameDef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Pos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Predef
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> String
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> StringParserTerrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Terrain
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> Vector
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> _root_
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> apply
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> c
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> canBuildFrom
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> common
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> contains
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> findChar
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> indexOf
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> indexWhere
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> intWrapper
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> length
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> level
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> levelVector
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> map
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> materializeClassTag
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> package
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> pos
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> refArrayOps
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> row
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> scala
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> split
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> str
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> streams
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> terrainFunction
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> unary_!
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> until
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> vector
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> wrapString
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> x
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> y
+product stamps:
+40 items
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package$.class -> lastModified(1466464094000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/common/package.class -> lastModified(1466464094000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Bloxorz.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$2.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$3.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$neighbors$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Block.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Down$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Left$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Move.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Pos.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Right$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$Up$.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef$class.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/GameDef.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver$class.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/Solver.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class -> lastModified(1466464095000)
+/Users/nambrot/devstuff/workspace/streams/target/scala-2.11/classes/streams/StringParserTerrain.class -> lastModified(1466464095000)
+source stamps:
+6 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> hash(1f39941e10f1dd636d5a1c2917f0023f53d6ef6c)
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> hash(cf69f30236cfb01c86e60a93f791af302ebb8654)
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> hash(b1c3bf049bc06d340dd2654a0c7763e2065708db)
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> hash(9341dd318dfa1c26f3f0f2456663572b3e419972)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1454109346000)
+/Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nambrot/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.GenSeqLike
+internal apis:
+6 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFVcBI2D3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEMvVXNlcnMvbmFtYnJvdC9kZXZzdHVmZi93b3Jrc3BhY2Uvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCPcPXAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAT3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFtRjxZ0AARkb3duc3EAfgAMEWMC33QABm5vdGlmeXNxAH4ADAgaBWl0AAd1bmFwcGx5c3EAfgAMrnJIqXQAB2N1cnJpZWRzcQB+AAx8tPJcdAAFTGV2ZWxzcQB+AAwTP9m8dAABeHNxAH4ADBDKKRR0AARtb3Zlc3EAfgAMEkUqWHQABHdhaXRzcQB+AAyzin3UdAACYjJzcQB+AAxk/upedAAObGVnYWxOZWlnaGJvcnNzcQB+AAz08AwYdAAOY29weSRkZWZhdWx0JDJzcQB+AAzXGqpndAANJGFzSW5zdGFuY2VPZnNxAH4ADDKQpz50AAJkeXNxAH4ADCjhBeJ0ABBuZXdOZWlnaGJvcnNPbmx5c3EAfgAMhBEEIXQABkxldmVsMHNxAH4ADIAbUP50AAxwcm9kdWN0QXJpdHlzcQB+AAzWaT1bdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAxR1AT3dAAGZXF1YWxzc3EAfgAMgHLWgnQAAXlzcQB+AAw2SnpMdAACdXBzcQB+AAyXmjLEdAAHQmxveG9yenNxAH4ADKB0LdF0AAxhc0luc3RhbmNlT2ZzcQB+AAx4KZaldAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwdVTPUdAAJbmVpZ2hib3Jzc3EAfgAMz2LwKHQADHN5bmNocm9uaXplZHNxAH4ADL+qeOp0AARsZWZ0c3EAfgAMnERmM3QADSRpc0luc3RhbmNlT2ZzcQB+AAwdp0x5dAAGdHVwbGVkc3EAfgAMJBjwC3QABGdvYWxzcQB+AAwHxQSxdAACYjFzcQB+AAz7uQTedAAIY2FuRXF1YWxzcQB+AAw4BzdwdAAEbWFpbnNxAH4ADEYG76V0AA90ZXJyYWluRnVuY3Rpb25zcQB+AAxNJ7qTdAANcHJvZHVjdFByZWZpeHNxAH4ADPkx90x0AAZMZXZlbDFzcQB+AAyaoyvudAAJbm90aWZ5QWxsc3EAfgAMXN6Lf3QAC3JlYWRSZXNvbHZlc3EAfgAMx1+aWHQADGlzSW5zdGFuY2VPZnNxAH4ADFPl7GF0AAhzb2x1dGlvbnNxAH4ADBXBSwB0AAY8aW5pdD5zcQB+AAztHRohdAAETW92ZXNxAH4ADCg1pod0AAVhcHBseXNxAH4ADDwOxXt0AAI9PXNxAH4ADDhmroR0AAREb3duc3EAfgAMHAy+8nQABExlZnRzcQB+AAxgLpLqdAAFY2xvbmVzcQB+AAzr1N7bdAAHdGVycmFpbnNxAH4ADN33OKF0AAtwYXRoc1RvR29hbHNxAH4ADCxKRTZ0AARmcm9tc3EAfgAM6i0X53QAB2lzTGVnYWxzcQB+AAyBn2/xdAAKc3RhcnRCbG9ja3NxAH4ADO9EGwl0AAppc1N0YW5kaW5nc3EAfgAMeCwhOnQAAlVwc3EAfgAMpdbrInQABGNvcHlzcQB+AAxvmqIsdAAEZG9uZXNxAH4ADF4+apB0AAh0b1N0cmluZ3NxAH4ADHYN3fl0AARhcmdzc3EAfgAMHzNTIXQACGZpbmRDaGFyc3EAfgAM6g2Si3QADUluZmluaXRlTGV2ZWxzcQB+AAxEDnc2dAADUG9zc3EAfgAMQU3eAnQAAiE9c3EAfgAMObqzYnQACGdldENsYXNzc3EAfgAMxXqZa3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMWTOgh3QAAmR4c3EAfgAMCEg2O3QAFG5laWdoYm9yc1dpdGhIaXN0b3J5c3EAfgAMJ97EwHQAB1RlcnJhaW5zcQB+AAw82c7vdAACbmVzcQB+AAyGXD5GdAAIc3RhcnRQb3NzcQB+AAwRyD7idAAFQmxvY2tzcQB+AAzP0SITdAAFUmlnaHRzcQB+AAx5IWKMdAACZXFzcQB+AAx2kslvdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZPkvUXQABXJpZ2h0c3EAfgAMiTQoGHQAC2RlbGF5ZWRJbml0c3EAfgAMNw2KbnQAAiMjc3EAfgAMYD73l3QACGZpbmFsaXplc3EAfgAMW3TbmXQADnByb2R1Y3RFbGVtZW50c3EAfgAMqHj+y3QACGhhc2hDb2Rlc3EAfgAMw9liwHQABWxldmVsc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AtXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD3N0cmVhbXMuQmxveG9yenVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ABBzY2FsYS5kZXByZWNhdGVkc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDPeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDOAHBzcQB+ANNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AtUwACWluaGVyaXRlZHEAfgC1TAAHcGFyZW50c3EAfgC1eHEAfgDXc3EAfgDOAHBzcQB+ANN1cQB+ALAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ALZxAH4Av3VxAH4AwAAAAABzcQB+AMICcQB+AE11cQB+AMUAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A1nQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+APR1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgDheHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDIdAAFUGxhaW5xAH4Af3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A6FsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4A1nNxAH4A53QABUFycmF5cQB+AO11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4A53QABlN0cmluZ3NxAH4A63NxAH4A7nVxAH4A8QAAAANzcQB+APN0AARqYXZhc3EAfgDzdAAEbGFuZ3EAfgD4c3EAfgDOAHBzcQB+ANN1cQB+ALAAAAAAc3EAfgDOAHBzcQB+ANN1cQB+AQsAAAAEc3EAfgDndAADQXBwcQB+AO1zcQB+AOd0AAtEZWxheWVkSW5pdHEAfgDtc3EAfgDndAAGT2JqZWN0cQB+AQ9zcQB+AOd0AANBbnlxAH4A7XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVVwEjYPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9uYW1icm90L2RldnN0dWZmL3dvcmtzcGFjZS9zdHJlYW1zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQfOZQeEPHdY21aHCkX8AI/U9bvbA==
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBLRul6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFlVlFN0AARkb3duc3EAfgAMvdJppnQABm5vdGlmeXNxAH4ADJcH+gt0AAd1bmFwcGx5c3EAfgAM2YYck3QAB2N1cnJpZWRzcQB+AAyD6c5edAABeHNxAH4ADEs98ox0AARtb3Zlc3EAfgAME+C+rXQAB0dhbWVEZWZzcQB+AAzsN/jjdAAEd2FpdHNxAH4ADApE7Rt0AAJiMnNxAH4ADCjpQtt0AA5sZWdhbE5laWdoYm9yc3NxAH4ADE2KjZZ0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADITIH110AA0kYXNJbnN0YW5jZU9mc3EAfgAMndVWv3QAAmR5c3EAfgAM1SQxAHQADHByb2R1Y3RBcml0eXNxAH4ADI4MeDV0AAZlcXVhbHNzcQB+AAxZUL0adAABeXNxAH4ADE1Z7ix0AAJ1cHNxAH4ADPBi+7R0AAxhc0luc3RhbmNlT2ZzcQB+AAxApxEtdAAJbmVpZ2hib3Jzc3EAfgAMhsw2snQADHN5bmNocm9uaXplZHNxAH4ADIo0x7V0AARsZWZ0c3EAfgAM09VDh3QADSRpc0luc3RhbmNlT2ZzcQB+AAzTyT83dAAGdHVwbGVkc3EAfgAM6s0lBnQABGdvYWxzcQB+AAyzjrKhdAACYjFzcQB+AAx2yG4wdAAIY2FuRXF1YWxzcQB+AAwj8QVQdAANcHJvZHVjdFByZWZpeHNxAH4ADIuGSHx0AAlub3RpZnlBbGxzcQB+AAzIOftTdAALcmVhZFJlc29sdmVzcQB+AAyE8c3jdAAMaXNJbnN0YW5jZU9mc3EAfgAMOVn1aHQABjxpbml0PnNxAH4ADOf/R2l0AARNb3Zlc3EAfgAMGtaI/XQABWFwcGx5c3EAfgAMor1a+3QAAj09c3EAfgAMBBSueXQABERvd25zcQB+AAw7U+SKdAAETGVmdHNxAH4ADB2Ax0h0AAVjbG9uZXNxAH4ADAVqaQ50AAd0ZXJyYWluc3EAfgAMLQdSznQABiRpbml0JHNxAH4ADACuUJp0AAdpc0xlZ2Fsc3EAfgAMK7P2C3QACnN0YXJ0QmxvY2tzcQB+AAxPCDPgdAAKaXNTdGFuZGluZ3NxAH4ADLmQHxx0AAJVcHNxAH4ADE63MId0AARjb3B5c3EAfgAMLbHWtXQACHRvU3RyaW5nc3EAfgAMQCJmHnQAA1Bvc3NxAH4ADBSVASN0AAIhPXNxAH4ADCQWyVN0AAhnZXRDbGFzc3NxAH4ADM1pJ8h0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADF+ehBt0AAJkeHNxAH4ADKJ47U50AAdUZXJyYWluc3EAfgAMjLzkuXQAAm5lc3EAfgAMlQnSfXQACHN0YXJ0UG9zc3EAfgAMy9Psv3QABUJsb2Nrc3EAfgAMHvkvNnQABVJpZ2h0c3EAfgAM5sGjW3QAAmVxc3EAfgAMWh6ZLHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADP56i410AAVyaWdodHNxAH4ADJdEUA50AAIjI3NxAH4ADMycO3B0AAhmaW5hbGl6ZXNxAH4ADAxl41d0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOwmXIV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AA9zdHJlYW1zLkdhbWVEZWZ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AKx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKsAcHNxAH4AsHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCTTAAJaW5oZXJpdGVkcQB+AJNMAAdwYXJlbnRzcQB+AJN4cQB+ALRzcQB+AKsAcHNxAH4AsHVxAH4AjgAAAABzcQB+AKsAcHNxAH4AsHVxAH4AjgAAAABzcQB+AKsAcHNxAH4AsHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4As3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4As3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A0HQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A0XNxAH4AxHQAA0FueXNxAH4AyHNxAH4Ay3VxAH4AzgAAAAJzcQB+ANB0AAVzY2FsYXEAfgDXdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXASNg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL1VzZXJzL25hbWJyb3QvZGV2c3R1ZmYvd29ya3NwYWNlL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM9p8wI2z7AchuYKk/eRrzAuu4ZU
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD34I4zAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJif0hJ0AARkb3duc3EAfgAM7VYiKHQABm5vdGlmeXNxAH4ADPcLAUp0AAd1bmFwcGx5c3EAfgAMYSyYAXQAB2N1cnJpZWRzcQB+AAyGhdM2dAABeHNxAH4ADHMIPXd0AARtb3Zlc3EAfgAML74b4HQABHdhaXRzcQB+AAyR8T6+dAACYjJzcQB+AAxdBnzZdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxC9zVEdAAOY29weSRkZWZhdWx0JDJzcQB+AAzLgG7hdAANJGFzSW5zdGFuY2VPZnNxAH4ADL3xm750AAJkeXNxAH4ADHoVzQx0AAxwcm9kdWN0QXJpdHlzcQB+AAyVx+bcdAAGZXF1YWxzc3EAfgAMP9BWPnQAAXlzcQB+AAwgQ0H1dAACdXBzcQB+AAwVrltcdAAPSW5maW5pdGVUZXJyYWluc3EAfgAM+/nn8XQADGFzSW5zdGFuY2VPZnNxAH4ADAHPdjZ0AAluZWlnaGJvcnNzcQB+AAxI5D3SdAAMc3luY2hyb25pemVkc3EAfgAMVQX24HQABGxlZnRzcQB+AAzvZTbqdAANJGlzSW5zdGFuY2VPZnNxAH4ADAJHaNB0AAZ0dXBsZWRzcQB+AAwZWxB+dAAEZ29hbHNxAH4ADFm8aPl0AAJiMXNxAH4ADJLPohx0AAhjYW5FcXVhbHNxAH4ADJI5x8J0AA1wcm9kdWN0UHJlZml4c3EAfgAM+kTJD3QACW5vdGlmeUFsbHNxAH4ADEjh+Sl0AAtyZWFkUmVzb2x2ZXNxAH4ADKaIPUZ0AAxpc0luc3RhbmNlT2ZzcQB+AAzHKhKNdAAGPGluaXQ+c3EAfgAMetnr63QABE1vdmVzcQB+AAy6t6TedAAFYXBwbHlzcQB+AAzA4WYvdAACPT1zcQB+AAzR6PEadAAERG93bnNxAH4ADKPQq9Z0AARMZWZ0c3EAfgAMojZ0RnQABWNsb25lc3EAfgAMOUHeG3QAB3RlcnJhaW5zcQB+AAzICloldAAGJGluaXQkc3EAfgAMqnyZQXQAB2lzTGVnYWxzcQB+AAyBGOYTdAAKc3RhcnRCbG9ja3NxAH4ADDCdCxV0AAppc1N0YW5kaW5nc3EAfgAMz68E9XQAAlVwc3EAfgAMIiEA23QABGNvcHlzcQB+AAyYcvZVdAAIdG9TdHJpbmdzcQB+AAwO932fdAADUG9zc3EAfgAM6KW7mHQAAiE9c3EAfgAMPr/3tHQACGdldENsYXNzc3EAfgAMaE+I9XQADmNvcHkkZGVmYXVsdCQxc3EAfgAMv6u073QAAmR4c3EAfgAMEGkvLHQAB1RlcnJhaW5zcQB+AAwJZM63dAACbmVzcQB+AAzz0sRudAAIc3RhcnRQb3NzcQB+AAzs50mCdAAFQmxvY2tzcQB+AAwufMGSdAAFUmlnaHRzcQB+AAyyKsJHdAACZXFzcQB+AAwegPPwdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMfAFV3XQABXJpZ2h0c3EAfgAMvjgelHQAAiMjc3EAfgAMlT4/fnQACGZpbmFsaXplc3EAfgAMzoyt93QADnByb2R1Y3RFbGVtZW50c3EAfgAMFGE9nHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ak3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAF3N0cmVhbXMuSW5maW5pdGVUZXJyYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCseHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCrAHBzcQB+ALBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ak0wACWluaGVyaXRlZHEAfgCTTAAHcGFyZW50c3EAfgCTeHEAfgC0c3EAfgCrAHBzcQB+ALB1cQB+AI4AAAAAc3EAfgCrAHBzcQB+ALB1cQB+AI4AAAAAc3EAfgCrAHBzcQB+ALB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALN0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCzc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANFzcQB+AMR0AAZPYmplY3RzcQB+AMhzcQB+AMt1cQB+AM4AAAADc3EAfgDQdAAEamF2YXNxAH4A0HQABGxhbmdxAH4A1XNxAH4AxHQAA0FueXNxAH4AyHNxAH4Ay3VxAH4AzgAAAAJzcQB+ANB0AAVzY2FsYXEAfgDVdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXASNg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL1VzZXJzL25hbWJyb3QvZGV2c3R1ZmYvd29ya3NwYWNlL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLtDgw9sYbirKVU6+VkUbrnYhQ3/
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCWz3bAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHzfVeF0AARkb3duc3EAfgAMLlnRBXQABm5vdGlmeXNxAH4ADDA7eH10AAd1bmFwcGx5c3EAfgAMxuRtaXQAB2N1cnJpZWRzcQB+AAy6FS3DdAABeHNxAH4ADBH+dBJ0AARtb3Zlc3EAfgAMfja9/3QABHdhaXRzcQB+AAwKTVkndAACYjJzcQB+AAwsmwTPdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxVS7nYdAAOY29weSRkZWZhdWx0JDJzcQB+AAy7clI+dAANJGFzSW5zdGFuY2VPZnNxAH4ADNGKcPZ0AAJkeXNxAH4ADIzWqX50ABBuZXdOZWlnaGJvcnNPbmx5c3EAfgAM0w+78HQADHByb2R1Y3RBcml0eXNxAH4ADIJtlAx0AA5wYXRoc0Zyb21TdGFydHNxAH4ADLCydyN0AAZlcXVhbHNzcQB+AAxeOFmPdAABeXNxAH4ADLlsdlF0AAJ1cHNxAH4ADAgvtXh0AAxhc0luc3RhbmNlT2ZzcQB+AAwZsXQIdAAJbmVpZ2hib3Jzc3EAfgAMqA8hRnQADHN5bmNocm9uaXplZHNxAH4ADNlLfCN0AARsZWZ0c3EAfgAMnBA+inQADSRpc0luc3RhbmNlT2ZzcQB+AAyUmDmOdAAGdHVwbGVkc3EAfgAMC/AnWXQABGdvYWxzcQB+AAxGuamwdAACYjFzcQB+AAyaNA2UdAAIY2FuRXF1YWxzcQB+AAyTKB8NdAANcHJvZHVjdFByZWZpeHNxAH4ADOzOaMN0AAlub3RpZnlBbGxzcQB+AAw9UYSydAALcmVhZFJlc29sdmVzcQB+AAxkfepvdAAMaXNJbnN0YW5jZU9mc3EAfgAMQKMMH3QACHNvbHV0aW9uc3EAfgAMmk+snXQABjxpbml0PnNxAH4ADDGFxRB0AARNb3Zlc3EAfgAMIpRNt3QABWFwcGx5c3EAfgAMiKxoq3QAAj09c3EAfgAMVI7EYXQABERvd25zcQB+AAwuRRf5dAAETGVmdHNxAH4ADPeypTd0AAVjbG9uZXNxAH4ADJW3iFF0AAd0ZXJyYWluc3EAfgAMfZJOaHQAC3BhdGhzVG9Hb2Fsc3EAfgAMtwCCgXQABGZyb21zcQB+AAzFRtC8dAAGJGluaXQkc3EAfgAM4zum1XQAB2lzTGVnYWxzcQB+AAz5Jc3YdAAKc3RhcnRCbG9ja3NxAH4ADOmN0aB0AAppc1N0YW5kaW5nc3EAfgAMT53n23QAAlVwc3EAfgAMIm+lr3QABGNvcHlzcQB+AAxmj+85dAAEZG9uZXNxAH4ADM/0Vfp0AAZTb2x2ZXJzcQB+AAyJjeIfdAAIdG9TdHJpbmdzcQB+AAy32KzAdAADUG9zc3EAfgAMBtbMWHQAAiE9c3EAfgAMQlScQHQACGdldENsYXNzc3EAfgAMXX0gKHQADmNvcHkkZGVmYXVsdCQxc3EAfgAMf49hbHQAAmR4c3EAfgAMCOkdZHQAFG5laWdoYm9yc1dpdGhIaXN0b3J5c3EAfgAM1oc1VHQAB1RlcnJhaW5zcQB+AAy46MyCdAACbmVzcQB+AAxND7o/dAAIc3RhcnRQb3NzcQB+AAzergXjdAAFQmxvY2tzcQB+AAzUrF3sdAAFUmlnaHRzcQB+AAwv7mFTdAACZXFzcQB+AAz3Z94XdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMl4mnMXQABXJpZ2h0c3EAfgAMbRzDcnQAAiMjc3EAfgAMXtDnq3QACGZpbmFsaXplc3EAfgAMNULF2XQADnByb2R1Y3RFbGVtZW50c3EAfgAMrCBA7XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AoXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQADnN0cmVhbXMuU29sdmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgC6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC5AHBzcQB+AL5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AoUwACWluaGVyaXRlZHEAfgChTAAHcGFyZW50c3EAfgCheHEAfgDCc3EAfgC5AHBzcQB+AL51cQB+AJwAAAAAc3EAfgC5AHBzcQB+AL51cQB+AJwAAAAAc3EAfgC5AHBzcQB+AL51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AMF0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgDBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AN9zcQB+ANJ0AAZPYmplY3RzcQB+ANZzcQB+ANl1cQB+ANwAAAADc3EAfgDedAAEamF2YXNxAH4A3nQABGxhbmdxAH4A43NxAH4A0nQAA0FueXNxAH4A1nNxAH4A2XVxAH4A3AAAAAJzcQB+AN50AAVzY2FsYXEAfgDjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXASNg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL1VzZXJzL25hbWJyb3QvZGV2c3R1ZmYvd29ya3NwYWNlL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLHDvwSbwG00DdJlSgx3Y+IGVwjb
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHChl9RpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLVGtDN0AARkb3duc3EAfgAMX+sB43QABm5vdGlmeXNxAH4ADP3BfkV0AAd1bmFwcGx5c3EAfgAMtDxbCnQAB2N1cnJpZWRzcQB+AAxwigVhdAABeHNxAH4ADD6QDKB0AARtb3Zlc3EAfgAMPhGwPnQABHdhaXRzcQB+AAzV+qH9dAACYjJzcQB+AAz+XIcidAAObGVnYWxOZWlnaGJvcnNzcQB+AAzzZrXVdAAOY29weSRkZWZhdWx0JDJzcQB+AAyPVnDSdAANJGFzSW5zdGFuY2VPZnNxAH4ADNpB1r90AAJkeXNxAH4ADNBHEKp0AAxwcm9kdWN0QXJpdHlzcQB+AAwnfs+8dAAGZXF1YWxzc3EAfgAM+K+lPXQAAXlzcQB+AAwmCV2IdAACdXBzcQB+AAwH7n9xdAAMYXNJbnN0YW5jZU9mc3EAfgAMwhmsHXQACW5laWdoYm9yc3NxAH4ADN5gxRV0AAZ2ZWN0b3JzcQB+AAwJMgD9dAAMc3luY2hyb25pemVkc3EAfgAMC5WSNHQABGxlZnRzcQB+AAwacGoMdAANJGlzSW5zdGFuY2VPZnNxAH4ADNnuoud0AAZ0dXBsZWRzcQB+AAyinUysdAAEZ29hbHNxAH4ADHWS+OR0AAJiMXNxAH4ADCgazIF0AAhjYW5FcXVhbHNxAH4ADElkynN0AA90ZXJyYWluRnVuY3Rpb25zcQB+AAwXvDdDdAANcHJvZHVjdFByZWZpeHNxAH4ADF0PAiZ0AAlub3RpZnlBbGxzcQB+AAxrG717dAALcmVhZFJlc29sdmVzcQB+AAw0E9N9dAAMaXNJbnN0YW5jZU9mc3EAfgAMCmV7b3QABjxpbml0PnNxAH4ADB3/j990AARNb3Zlc3EAfgAMtmxienQABWFwcGx5c3EAfgAMI1Zzy3QAAj09c3EAfgAM/S/n0HQABERvd25zcQB+AAy2hB4wdAAETGVmdHNxAH4ADOFvBsZ0AAVjbG9uZXNxAH4ADBKk2rJ0AAd0ZXJyYWluc3EAfgAMytPWT3QABiRpbml0JHNxAH4ADIo40C90AAdpc0xlZ2Fsc3EAfgAMWUnc8nQACnN0YXJ0QmxvY2tzcQB+AAwSeOs6dAAKaXNTdGFuZGluZ3NxAH4ADAG8K3J0AAJVcHNxAH4ADEQvOsB0ABNTdHJpbmdQYXJzZXJUZXJyYWluc3EAfgAMm7AkuHQABGNvcHlzcQB+AAwDrcimdAAIdG9TdHJpbmdzcQB+AAxEw1HPdAAIZmluZENoYXJzcQB+AAz+M+Z9dAADUG9zc3EAfgAMp0Qi7HQAAiE9c3EAfgAMhRYaq3QACGdldENsYXNzc3EAfgAMH7oqJnQADmNvcHkkZGVmYXVsdCQxc3EAfgAM+MKaTXQAAmR4c3EAfgAMHC/FsHQAB1RlcnJhaW5zcQB+AAwqk9WxdAACbmVzcQB+AAzLPzXbdAAIc3RhcnRQb3NzcQB+AAzNtOT2dAAFQmxvY2tzcQB+AAwt2cSydAAFUmlnaHRzcQB+AAwvrra9dAACZXFzcQB+AAylqgL0dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM2+03c3QABXJpZ2h0c3EAfgAMjBvDtHQAAiMjc3EAfgAMX95RgHQACGZpbmFsaXplc3EAfgAM1MR2EHQADnByb2R1Y3RFbGVtZW50c3EAfgAMpjBVrHQACGhhc2hDb2Rlc3EAfgAMFQ3kwXQABWxldmVsc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Am3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAXQAG3N0cmVhbXMuU3RyaW5nUGFyc2VyVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AtHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AswBwc3EAfgC4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJtMAAlpbmhlcml0ZWRxAH4Am0wAB3BhcmVudHNxAH4Am3hxAH4AvHNxAH4AswBwc3EAfgC4dXEAfgCWAAAAAHNxAH4AswBwc3EAfgC4dXEAfgCWAAAAAHNxAH4AswBwc3EAfgC4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC7dAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Au3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDZc3EAfgDMdAAGT2JqZWN0c3EAfgDQc3EAfgDTdXEAfgDWAAAAA3NxAH4A2HQABGphdmFzcQB+ANh0AARsYW5ncQB+AN1zcQB+AMx0AANBbnlzcQB+ANBzcQB+ANN1cQB+ANYAAAACc3EAfgDYdAAFc2NhbGFxAH4A3XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVVwEjYPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQy9Vc2Vycy9uYW1icm90L2RldnN0dWZmL3dvcmtzcGFjZS9zdHJlYW1zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSTQd0xjfocJvPw8kVmY1crPkGZcg==
+external apis:
+0 items
+source infos:
+6 items
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Bloxorz.scala -> 
+AAAAAQAAAQAAADIAKiAgb3ZlcnJpZGUgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSkgewEAAAPsAQAAAA8BAA8gICAgICAgICAgICAgICABAE4vVXNlcnMvbmFtYnJvdC9kZXZzdHVmZi93b3Jrc3BhY2Uvc3RyZWFtcy9zcmMvbWFpbi9zY2FsYS9zdHJlYW1zL0Jsb3hvcnouc2NhbGEBAE4vVXNlcnMvbmFtYnJvdC9kZXZzdHVmZi93b3Jrc3BhY2Uvc3RyZWFtcy9zcmMvbWFpbi9zY2FsYS9zdHJlYW1zL0Jsb3hvcnouc2NhbGEAUG92ZXJyaWRpbmcgbWV0aG9kIG1haW4gaW4gdHJhaXQgQXBwIGlzIGRlcHJlY2F0ZWQ6IG1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuAQAAAAA=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/GameDef.scala -> 
+AAAAAAAAAAA=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/Solver.scala -> 
+AAAAAQAAAQAAAA0ARiAgZGVmIGRvbmUoYjogQmxvY2spOiBCb29sZWFuID0gdGVycmFpbihiLmIxKSA9PSB0ZXJyYWluKGIuYjIpID09IGdvYWwBAAABEAEAAAA/AQA/ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQBNL1VzZXJzL25hbWJyb3QvZGV2c3R1ZmYvd29ya3NwYWNlL3N0cmVhbXMvc3JjL21haW4vc2NhbGEvc3RyZWFtcy9Tb2x2ZXIuc2NhbGEBAE0vVXNlcnMvbmFtYnJvdC9kZXZzdHVmZi93b3Jrc3BhY2Uvc3RyZWFtcy9zcmMvbWFpbi9zY2FsYS9zdHJlYW1zL1NvbHZlci5zY2FsYQBYY29tcGFyaW5nIHZhbHVlcyBvZiB0eXBlcyBCb29sZWFuIGFuZCBTb2x2ZXIudGhpcy5Qb3MgdXNpbmcgYD09JyB3aWxsIGFsd2F5cyB5aWVsZCBmYWxzZQEAAAAA
+/Users/nambrot/devstuff/workspace/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVXASNg91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9uYW1icm90L2RldnN0dWZmL3dvcmtzcGFjZS9zdHJlYW1zL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
